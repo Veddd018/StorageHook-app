@@ -140,3 +140,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author
 
 Ved Patel - [GitHub](https://github.com/Veddd018)
+
+
+Photos 
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/d69fdd88-b45a-4c95-89aa-3c60f613f430" />
